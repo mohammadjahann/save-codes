@@ -9,3 +9,8 @@ script :
     "compile:sass": "sass sass/main.scss css/style.css -w"
   },
 
+
+  # redux toolkit
+"npm install command :"
+  npm install @reduxjs/toolkit react-redux
+
